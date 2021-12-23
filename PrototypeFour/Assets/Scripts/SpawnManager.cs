@@ -6,7 +6,9 @@ public class SpawnManager : MonoBehaviour
 {
     public GameObject enemyPrefabs;
     public GameObject powerupPrefabs;
+
     public float spawnRange = 9;
+
     public int enemyCount;
     public int wavwNumber = 1;
     // Start is called before the first frame update
